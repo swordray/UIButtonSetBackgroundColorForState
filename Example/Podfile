@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UIButtonSetBackgroundColorForState_Example' do
+  pod 'UIButtonSetBackgroundColorForState', :path => '../'
+
+  target 'UIButtonSetBackgroundColorForState_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
