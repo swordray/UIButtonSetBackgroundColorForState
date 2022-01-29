@@ -8,10 +8,10 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UIButtonSetBackgroundColorForState'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Add method setBackgroundColor:forState: to UIButton.'
 
-  s.homepage         = 'https://github.com/swordray/UIButtonSetBackgroundColorForState'
+  s.homepage         = 'https://bailushuyuan.org'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Jianqiu Xiao' => 'swordray@gmail.com' }
   s.source           = { :git => 'https://github.com/swordray/UIButtonSetBackgroundColorForState.git', :tag => s.version.to_s }

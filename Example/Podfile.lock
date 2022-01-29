@@ -1,5 +1,5 @@
 PODS:
-  - UIButtonSetBackgroundColorForState (0.1.0)
+  - UIButtonSetBackgroundColorForState (0.1.1)
 
 DEPENDENCIES:
   - UIButtonSetBackgroundColorForState (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  UIButtonSetBackgroundColorForState: d2bc4a5c421553e03b1ca322804f75c135e17d4d
+  UIButtonSetBackgroundColorForState: 53e57d766d62f19e564b62bf31b64236902f852c
 
 PODFILE CHECKSUM: 5952f29f7a3b631b056f933f3913138b55eb658e
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.11.2
